@@ -16,13 +16,35 @@
       "filterable": 0
   },
 
-  //以下为巧计fix-08🕘
+  //以下为巧计fix-014🕘
    
-    
-   
+      {
+      "key": "热播",
+      "name": "🕘热播┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "caHR0cDovL3YucmJvdHYuY24="
+    },
+     {
+      "key": "南瓜",
+      "name": "🕘南瓜┃014",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 1,
+      "ext": "maHR0cDovL3Z2cy5jaGFuZ21lbmd5dW4uY29t"
+    },
+     {
+      "key": "天天",
+      "name": "🕘天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
+    },
     {
       "key": "追剧",
-      "name": "🕘追剧┃巧08",
+      "name": "🕘追剧┃巧06",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -31,50 +53,88 @@
     {
       "key": "雨滴",
       "name": "🕘雨滴┃巧技",
-      "type": 3,
+     "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
-    {
-      "key": "优质",
-      "name": "🕘优质┃巧技",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-    },
+    
     
     {
       "key": "柠檬",
       "name": "🕘柠檬┃APP",
-      "type": 3,
+       "type": 3,
       "api": "csp_Nmvod",
-      
       "playerType": 2,
-      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },
   
     
     {
       "key": "剧评",
       "name": "🕘剧评┃App",
-      "type": 3,
+     "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
-    
-    
-    {
-      "key": "蝴蝶",
-      "name": "🕘蝴蝶┃App",
+     {
+      "key": "木头",
+      "name": "🕘木头┃App",
       "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+      "api": "csp_Shark",
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
     {
+      "key": "主角",
+      "name": "🕘主角┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
+    },
+    {
+      "key": "23ys",
+      "name": "🕘二三┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+      {
+      "key": "玉米",
+      "name": "🕘玉米┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy"
+    },
+    {
+      "key": "现代",
+      "name": "🕘现代┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+     {
+      "key": "永夜",
+      "name": "🕘永夜┃App",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+    },
+      {
+      "key": "优质",
+      "name": "🕘优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },
+   {
       "key": "时常",
       "name": "🕘时常┃App",
       "type": 3,
@@ -82,18 +142,7 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
-    
-    {
-      "key": "360_spider",
-      "name": "🕘360┃巧技",
-      "api": "csp_SP360",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "playerType": 1,
-      "ext": ""
-    },
+   
 
   //以下为lltv -6
   {
@@ -112,7 +161,7 @@
   },  
   {
       "key":"DYDS-公子",
-      "name":"💘大师┃lltv6",
+      "name":"💘大师┃lltv8",
       "type":3,
       "api":"csp_XBPQ",
       "searchable": 1,
@@ -150,19 +199,7 @@
     "filterable": 1,
     "ext": "https://v.aikanbot.com"
   },
-  {
-    "key": "lltv_糯米弹幕",
-    "name": "💘糯米┃lltvv",
-    "type": 3,
-    "api": "csp_Nmys",
-   "jar": "./jar25/lltv250207spider.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-      "danmu": true
-    }
-  }, 
+  
   
   {
     "key": "lltv_采集之王",
@@ -193,151 +230,8 @@
   },
  
 
-    //以下为ouge-13🆗
-   
-  
-  {"key":"天天弹幕",
-  "name":"🆗天天┃弹幕",
-  "type":3,
-  "api":"csp_TianTian",
-  "jar": "./jar25/ouge250207jar.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":
-  {"danmu":true,"site":"aHR0cDovL29wLnlzZHFqcy5jbg=="}},
-{
-  "key": "热播",
-  "name": "🆗热播┃多13",
-  "type": 3,
-  "api": "csp_AppTT",
-  "jar": "./jar25/ouge1f0206.txt",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-},
-{"key":"热播弹幕",
-"name":"🆗热播┃弹幕",
-"jar": "./jar25/ouge250207jar.php",
-"type":3,
-"api":"csp_TianTian",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{"danmu":true,"site":"aHR0cDovL3YucmJvdHYuY24="}},
+ 
 
-{"key":"白嫖者",
-"name":"🆗白嫖┃影视",
-"jar": "./jar25/ouge250207jar.php",
-"type":3,
-"api":"csp_XBPQ",
-"ext":
-{"分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"分类":"电影$1#电视剧$2#动漫$4#综艺$3",
-"副标题":"class=\"pic-texttext-right\"&&</span>",
-"简介":"️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
-}
-},
-
-    {"key":"快看影视",
-    "name":"🆗快看┃讴歌",
-    "jar": "./jar25/ouge250207jar.php",
-    "type":3,
-    "api":"csp_Kuaikan",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-  },
-    
-  {
-    "key": "欢视",
-    "name": "🆗欢视┃多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "jar": "./jar25/ouge1f0206.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-  },
-  {
-    "key": "可可",
-    "name": "🆗可可┃多线",
-    "type": 3,
-    "api": "csp_Kekys",
-    "jar": "./jar25/ouge1f0206.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1
-  },
-  {
-    "key": "萌米",
-    "name": "🆗萌米┃多线",
-    "type": 3,
-    "api": "csp_AppTT",
-    "jar": "./jar25/ouge1f0206.txt",
-    "playerType": 2,
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
-  },
-  {
-    "key": "木星",
-    "name": "🆗木星┃多线",
-    "jar": "./jar25/ouge1f0206.txt",
-    "type": 3,
-    "api": "csp_AppSx",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
-  },
-
-{"key":"文才弹幕",
-"name":"🆗文才┃弹幕",
-"type":3,
-"api":"csp_Jpys",
-"jar": "./jar25/ouge250207jar.php",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{"danmu":true}
-},
-
-{
-  "key": "苹果",
-  "name": "🆗苹果┃不卡",
-  "type": 3,
-  "api": "csp_LiteApple",
-  "jar": "./jar25/ouge1f0206.txt",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{"key":"糯米弹幕",
-"name":"🆗糯米┃弹幕",
-"jar": "./jar25/ouge250207jar.php",
-"type":3,
-"api":"csp_Nmys",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{"danmu":true}}, 
-{
-  "key": "糯米",
-  "name": "🆗糯米┃秒播",
-  "jar": "./jar25/ouge1f0206.txt",
-  "type": 3,
-  "api": "csp_Nmyswv",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
    
     //肥猫-3🐻
     {
