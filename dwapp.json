@@ -148,7 +148,7 @@
   {
     "key": "lltv_浪酷弹幕",
     "name": "💘浪酷┃弹幕",
-    "jar": "./jar25/lltv250221spider.jar",
+    "jar": "./jar25/lltv250207spider.jar",
     "type": 3,
     "api": "csp_TianTian",
     "searchable": 1,
@@ -165,14 +165,14 @@
       "type":3,
       "api":"csp_XBPQ",
       "searchable": 1,
-      "jar": "./jar25/lltv250221spider.jar",
+      "jar": "./jar25/lltv250207spider.jar",
       "ext":"./mov/json/电影大师.json"
     },
     
     {
       "key":"lltv_河马-欧歌",
       "name":"💘河马┃lltvv",
-     "jar": "./jar25/lltv250221spider.jar",
+     "jar": "./jar25/lltv250207spider.jar",
       "type":3,
       "api":"csp_XBPQ",
       "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
@@ -182,7 +182,7 @@
     "name": "💘地瓜┃lltvv",
     "type": 3,
     "api": "csp_AppYsV2",
-   "jar": "./jar25/lltv250221spider.jar",
+   "jar": "./jar25/lltv250207spider.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -191,7 +191,7 @@
   {
     "key": "lltv_Ikanbot-XYQ-PG",
     "name": "💘机器┃lltvv",
-    "jar": "./jar25/lltv250221spider.jar",
+    "jar": "./jar25/lltv250207spider.jar",
     "type": 3,
     "api": "csp_Ikanbot",
     "searchable": 1,
@@ -204,7 +204,7 @@
   {
     "key": "lltv_采集之王",
     "name": "💘采集┃lltvv",
-    "jar": "./jar25/lltv250221spider.jar",
+    "jar": "./jar25/lltv250207spider.jar",
     "type": 3,
     "api": "./js/drpy2.min.js",
     "ext": "./mov/js/采集之王.js?type=url&params=./mov/json/采集静态.json$1$1"
@@ -212,7 +212,7 @@
   {
     "key": "lltv_HG影视",
     "name": "💘HGYS┃lltvv",
-    "jar": "./jar25/lltv250221spider.jar",
+    "jar": "./jar25/lltv250207spider.jar",
     "type": 3,
     "api": "csp_AppYsV2",
     "searchable": 1,
