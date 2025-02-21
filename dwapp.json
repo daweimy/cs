@@ -233,32 +233,7 @@
  
 
    
-    //肥猫-3🐻
-    {
-      "key": "csp_Kanke",
-      "name": "🐻看客┃肥03",
-      "type": 3,
-      "jar":"./jar25/feimao0125.jar",
-      "api": "csp_Kanke"
-      
-    },
-    
-  {
-    "key": "csp_Qiyou",
-    "name": "🐻奇优┃肥猫",
-    "type": 3,
-    "api": "csp_Qiyou",
-    "jar":"./jar25/feimao0125.jar",
-    "ext": "http://www.dyxz2.com/"
-  },
-  {
-    "key": "csp_Lkdy",
-    "name": "🐻来看┃肥猫",
-    "type": 3,
-    "jar":"./jar25/feimao0125.jar",
-    "api": "csp_Lkdy"
-  },
- 
+   
 
    //盐枭-1
   {
