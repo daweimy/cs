@@ -241,7 +241,7 @@
     "name": "👀萌米┃盐梟",
     "type": 3,
     "api": "csp_AppTT",
-    "jar": "./jar2407/fan-yanxiao.txt",
+    "jar": "./jar25/fan-yanxiao.txt",
     "timeout": 15,
     "playerType": 1,
     "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -253,7 +253,7 @@
    //kevinr-1
    {"key":"csp_CandyMuj_taoju",
    "name":"📺淘剧┃ kevi",
-   "jar": "./jar2407/candymuj.jar",
+   "jar": "./jar25/candymuj.jar",
    "type":3,
    "api":"csp_CandyMuj_taoju",
    "searchable":1,
@@ -272,7 +272,7 @@
     "name": "👌Free┃玄珠",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./jar2407/spider-xz.jar", 
+    "jar": "./jar25/spider-xz.jar", 
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -293,7 +293,7 @@
     "name": "🐰米兔┃小米",
     "type": 3,
     "api": "csp_MiTuApp",
-    "jar":"./jar2407/xmwd241212.jar",
+    "jar":"./jar25/xmwd241212.jar",
     "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
   },
   
@@ -309,7 +309,7 @@
   "name": "😎五五┃开02",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/daweimy/1/-/raw/main/jar/PizazzGY.jar",
+  "jar": "./jar25/PizazzGY.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -342,7 +342,7 @@
   "name": "😎348┃开心",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/daweimy/1/-/raw/main/jar/PizazzGY.jar",
+  "jar": "./jar25/PizazzGY.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
