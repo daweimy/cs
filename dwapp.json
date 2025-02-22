@@ -16,7 +16,7 @@
       "filterable": 0
   },
 
-  //以下为巧计fix-014🕘
+  //以下为巧计fix-016🕘
    
       {
       "key": "热播",
@@ -28,7 +28,7 @@
     },
      {
       "key": "南瓜",
-      "name": "🕘南瓜┃app",
+      "name": "🕘南瓜┃016",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 1,
@@ -142,6 +142,15 @@
       "playerType": 1,
       "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
+     {
+    "key": "lltv_巧技",
+    "name": "🕘巧技┃App",
+    "type": 3,
+    "playerType": 2,
+    "api": "csp_qiao2",
+    "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+  },
+ 
    
 
   //以下为lltv -6
@@ -161,7 +170,7 @@
   },  
   {
       "key":"DYDS-公子",
-      "name":"💘大师┃lltv8",
+      "name":"💘大师┃007",
       "type":3,
       "api":"csp_XBPQ",
       "searchable": 1,
@@ -211,7 +220,7 @@
   }, 
   {
     "key": "lltv_HG影视",
-    "name": "💘HGYS┃lltvv",
+    "name": "💘HGY┃lltvv",
     "jar": "./jar25/lltv250207spider.jar",
     "type": 3,
     "api": "csp_AppYsV2",
@@ -219,14 +228,6 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-  },
-  {
-    "key": "lltv_巧技",
-    "name": "💘巧技┃lltvv",
-    "type": 3,
-    "playerType": 2,
-    "api": "csp_qiao2",
-    "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
   },
  
 
