@@ -1,0 +1,53 @@
+{ 
+  "storeHouse": 
+[ 
+{ "sourceName": "💢大伟自用💢", "sourceUrl": "https://gitee.com/daweimy/my/raw/master/zx.json" },
+
+{ "sourceName": "💢大伟备用💢", "sourceUrl": "https://gitee.com/daweiceo/iptv/raw/my/zx.json" },
+
+{ "sourceName": "💢LLC 多仓💢", "sourceUrl": "https://gitee.com/lltv/by/raw/main/llc.json" },
+
+{ "sourceName": "💢智简关注💢", "sourceUrl": "https://gitee.com/ZJHT0/yingshi/raw/master/json/ys.json" },
+
+{ "sourceName": "💢wang关注💢", "sourceUrl": "https://gitee.com/shengfuwang/yscjk/raw/master/jk.json" },
+
+{ "sourceName": "💢老茧关注💢", "sourceUrl": "https://gitee.com/g1151/tst/raw/master/%E4%BB%93%E5%BA%93.json" },
+
+{ "sourceName": "💢wgq多多A💢", "sourceUrl": "https://gitlab.com/wgq11/main/-/raw/tv/ck/a.txt" },
+
+{ "sourceName": "💢wgq多多B💢", "sourceUrl": "https://gitlab.com/wgq11/main/-/raw/tv/ck/b.txt" },
+
+{ "sourceName": "💢wgq多多C💢", "sourceUrl": "https://gitlab.com/wgq11/main/-/raw/tv/ck/c.txt" },
+
+{ "sourceName": "💢wgq多多D💢", "sourceUrl": "https://gitlab.com/wgq11/main/-/raw/tv/ck/d.txt" },
+
+{ "sourceName": "💢wgq多多E💢", "sourceUrl": "https://gitlab.com/wgq11/main/-/raw/tv/duo.json" },
+
+{ "sourceName": "💢wgq码点F💢", "sourceUrl": "http://120.79.4.185/dc.json" },
+
+{ "sourceName": "💢*123单仓💢", "sourceUrl": "https://12586.kstore.space/123.txt"},
+
+{ "sourceName": "💢天威单仓💢", "sourceUrl": "https://qixing.myhkw.com/DC.txt"},
+
+{ "sourceName": "💢讴歌单仓💢", "sourceUrl": "https://o.nxog.top/nxog/ou1.php"},
+
+{ "sourceName": "💢多多单仓💢", "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"},
+
+{ "sourceName": "果冻自用","sourceUrl": "https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/dan.json" }, 
+{"sourceName":  "TVBO仓库","sourceUrl":"https://gitlab.com/dokiss/tvbox/-/raw/main/TVBOX官仓.json"},
+{ "sourceName": "欧歌多仓","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?b=欧歌"},
+{ "sourceName": "青木多仓","sourceUrl": "http://530.my3v.work/qm.json" },
+{ "sourceName": "宋歌多仓","sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg" },
+{"sourceName":  "恒星多仓","sourceUrl":"http://530.my3v.work/hxck.json"},
+{"sourceName":  "心动多仓","sourceUrl":"http://530.my3v.work/xdck.json"},
+{"sourceName":  "水大侠仓","sourceUrl":"https://gitee.com/GK_6_0/json/raw/master/json.txt"},
+{"sourceName":  "追剧吧仓","sourceUrl":"https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"},
+{"sourceName":  "拾光多仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
+{"sourceName":  "有毒多仓","sourceUrl":"https://tv.youdu.fan:666/"},
+{"sourceName":  "潇洒多仓","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
+{"sourceName":  "荷花多仓","sourceUrl":"https://jihulab.com/z-blog/xh2/-/raw/main/t3.json"},
+{ "sourceName": "壹梦多仓","sourceUrl": "http://530.my3v.work/3.json" }
+
+
+] 
+}
