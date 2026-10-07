@@ -1,18 +1,18 @@
 {"urls": [
                 
-        {"name": "⚜️清扬主线00┃giteee","url": "https://gitee.com/daweimy/my/raw/master/dwapp.json"}, 
+        {"name": "⚜️清扬主线00┃giteee","url": "https://gh-proxy.com/https://raw.githubusercontent.com/daweimy/cs/main/dwapp.json"}, 
 
-        {"name": "⚜️清扬备用01┃github","url": "https://ghproxy.net/https://raw.githubusercontent.com/daweimy/cs/refs/heads/main/dwapp.json"},  
+        {"name": "⚜️清扬备用01┃github","url": "https://gh-proxy.com/https://raw.githubusercontent.com/daweimy/cs/main/dwapp.json"},  
 
-        {"name": "⚜️清扬备用02┃gitacw","url": "https://git.acwing.com/daweimy/ys/-/raw/main/dwapp.json"},
+        {"name": "⚜️清扬备用02┃gitacw","url": "https://fastly.jsdelivr.net/gh/daweimy/cs@main/dwapp.json"},
 
-        {"name": "⚜️清扬备用03┃codebe","url": "https://codeberg.org/dawei/1/raw/branch/main/dwapp.json"},
+        {"name": "⚜️清扬备用03┃codebe","url": "https://cdn.jsdelivr.net/gh/daweimy/cs@main/dwapp.json"},
 
-        {"name": "⚜️清扬备用04┃notabu","url": "https://notabug.org/daweimy/my/raw/master/dwapp.json"},
+        {"name": "⚜️清扬备用04┃notabu","url": "https://cdn.jsdmirror.com/gh/daweimy/cs@main/dwapp.json"},
 
-        {"name": "⚜️清扬备用05┃gitcod","url": "https://raw.gitcode.com/dawe_i2023/my/raw/master/dwapp.json"},
+        {"name": "⚜️清扬备用05┃gitcod","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/daweimy/cs/main/dwapp.json"},
 
-        {"name": "⚜️清扬备用06┃gitlab","url": "https://gitlab.com/ys1054508/1/-/raw/master/dwapp.json"},
+        {"name": "⚜️清扬备用06┃gitlab","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/daweimy/cs/main/dwapp.json"},
 
 
         {"name":"肥猫线路","url":"http://肥猫.com"},
