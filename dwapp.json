@@ -316,6 +316,16 @@
   "categories": []
 },
 {
+  "key":"巨量资源",
+  "name":"🕹️巨量┃采集",
+  "type":1,
+  "api": "https://api.juliang.live/api/provide/vod/?ac=detail",
+  
+  "searchable":1,
+  "quickSearch":1,
+  "categories": []
+},
+{
   "key":"如意资源",
   "name":"🕹️如意┃采集",
   "type":1,
